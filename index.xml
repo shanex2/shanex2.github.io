@@ -2,40 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>x2</title>
-        <link>https://example.com/</link>
+        <link>https://shanex2.github.io/</link>
         <description>Recent content on x2</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Wed, 29 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shanex2.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于</title>
+        <link>https://shanex2.github.io/about/</link>
+        <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://shanex2.github.io/about/</guid>
+        <description>&lt;h3 id=&#34;个人简介&#34;&gt;个人简介&lt;/h3&gt;
+&lt;p&gt;坐标深圳，从事C++后台相关工作&lt;/p&gt;
+&lt;h3 id=&#34;联系方式&#34;&gt;联系方式&lt;/h3&gt;
+&lt;p&gt;Email：xiexin.x2@gmail.com&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>分类</title>
-        <link>https://example.com/categories/</link>
+        <link>https://shanex2.github.io/categories/</link>
         <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/categories/</guid>
+        <guid>https://shanex2.github.io/categories/</guid>
         <description></description>
         </item>
         <item>
         <title>归档</title>
-        <link>https://example.com/archives/</link>
+        <link>https://shanex2.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>https://example.com/about/</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/about/</guid>
+        <guid>https://shanex2.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>搜索</title>
-        <link>https://example.com/search/</link>
+        <link>https://shanex2.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/search/</guid>
+        <guid>https://shanex2.github.io/search/</guid>
         <description></description>
         </item>
         

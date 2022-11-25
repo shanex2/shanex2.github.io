@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <loc>https://shanex2.github.io/</loc>
+    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <loc>https://shanex2.github.io/page/</loc>
+    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://shanex2.github.io/about/</loc>
+    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shanex2.github.io/categories/</loc>
     <lastmod>2019-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://shanex2.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <loc>https://shanex2.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://shanex2.github.io/tags/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
-  </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://shanex2.github.io/search/</loc>
   </url>
 </urlset>
